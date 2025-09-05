@@ -1,0 +1,3 @@
+﻿stock_code,total_related_parties,parent_companies,subsidiaries,sister_companies,joint_ventures,individual_related,other_related,controlling_parties,controlled_parties,geographic_diversity,business_diversity,network_complexity_score,network_centrality_score,latest_report_date
+000001,3,1,1,1,0,0,0,1,1,1,3,0.3066666666666667,0.4706666666666666,2023-12-31
+000002,2,1,1,0,0,0,0,1,1,1,2,0.2733333333333333,0.499,2023-12-31
