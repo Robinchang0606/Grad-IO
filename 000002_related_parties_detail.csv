@@ -1,0 +1,5 @@
+﻿stock_code,party_name,relation_code,relation_desc,control_by_related,control_to_related,registered_capital,currency,business,location,report_date
+000002,深圳地铁集团有限公司,01,母公司,29.38,0.0,15000000.0,CNY,城市轨道交通投资建设运营,深圳市,2023-12-31
+000002,万科物业发展股份有限公司,02,子公司,0.0,59.91,1200000.0,CNY,物业管理服务,深圳市,2023-12-31
+000002,万科企业(香港)有限公司,02,子公司,0.0,100.0,500000.0,HKD,投资控股,香港,2023-12-31
+000002,万科集团股份有限公司,06,合营企业,0.0,50.0,800000.0,CNY,房地产开发,深圳市,2023-12-31
